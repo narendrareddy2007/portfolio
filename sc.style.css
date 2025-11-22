@@ -1,0 +1,44 @@
+.bar{
+    text-align:right;
+    padding: 30px;
+}
+li{
+    display:inline-flex;
+    text-align:end;
+}
+.as{
+    color:rgb(211, 79, 101);
+}
+body{
+    background-image:url('bgmi.jfif');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-SIZE: cover;
+    height:100%;
+}
+#about{
+    text-align: center;
+    font-size: xx-large;
+    
+}
+.qw{
+    color:green;
+    background-color: aquamarine;
+
+}
+.qw.span:hover{
+    color:brown;
+}
+.id{
+    background-image:url('download\ \(2\).jfif');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity:1.1;
+}
+.po{ 
+    text-align: center;
+    border-radius: 10px;
+    width: 750px;
+    background-color: aquamarine;
+}
